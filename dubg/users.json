@@ -1,0 +1,30 @@
+{
+    "users": [{
+            "firstName": "mona",
+            "lastName": "rahul",
+            "details": {
+                "age": 21,
+                "mobileNo": 1234567890,
+                "City": "mumbai"
+            }
+        },
+        {
+            "firstName": "sona",
+            "lastName": "deshmukh",
+            "details": {
+                "age": 22,
+                "mobileNo": 12345678320,
+                "City": "banglore"
+            }
+        },
+        {
+            "firstName": "hina",
+            "lastName": "gomase",
+            "details": {
+                "age": 25,
+                "mobileNo": 12332567890,
+                "City": "nagpur"
+            }
+        }
+    ]
+}

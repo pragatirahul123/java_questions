@@ -1,0 +1,11 @@
+def numbers_greater_than_twenty(list):
+	print list
+  	counter = 0
+  	while counter<len(list):
+		if list[counter]<20:
+			print list[counter],
+		counter=counter+1
+
+numbers_greater_than_twenty([12,312,42,123,5,12,53,75,123,62,9])
+
+
